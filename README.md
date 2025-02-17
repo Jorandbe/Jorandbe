@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jorandbe
-- 👀 I’m interested in .Net Development of all kind
+- 👀 I’m interested in .Net Development of all kinds
 - 🌱 I’m currently learning Blazor and ASP.NET CORE API
 
 <!---
